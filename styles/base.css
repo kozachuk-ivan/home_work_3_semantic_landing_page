@@ -1,0 +1,28 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Montserrat", Arial, Helvetica, sans-serif;
+	min-width: 320px;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.25;
+	color: #fffbfb;
+	background-color: #1e1e1e;
+	letter-spacing: 2.4px;
+}
+
+mark {
+	color: #fffbfb;
+	background: none;
+}
+
+/* .wrapper {
+	overflow: hidden;
+}
+
+.container {
+} */
